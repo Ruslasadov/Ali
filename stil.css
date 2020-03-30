@@ -1,0 +1,27 @@
+.icon{
+	width: 150px;
+	border-radius: 60%;
+}
+.icon:hover{
+    background-color: #fff
+}
+.foo{
+	background-color: #f8f9fa
+}
+footer a{
+	float: left;
+}
+.icon1{
+	width: 60px;
+}
+.icon1:hover{
+	border-radius:45%;
+	background-color: #000
+
+}
+img:hover {
+    
+    animation: shake 0.5s;
+    
+    animation-iteration-count: infinite;
+}
